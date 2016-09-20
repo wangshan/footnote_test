@@ -41,6 +41,7 @@ public:
 
     FloatingPoint(const raw_type& raw)
     {
+        // test note status
         m_u.f = raw;
     }
 
