@@ -3,7 +3,7 @@
 
 #include <cfloat>
 #include <cmath>
-#include <iostream>
+#include <iostream> // make note suspect
 
 // floating point comparison, see the below links for detail
 // https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/
