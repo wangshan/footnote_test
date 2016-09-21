@@ -41,7 +41,7 @@ public:
 
     FloatingPoint(const raw_type& raw)
     {
-        m_u.f = raw; // this
+        m_u.f = raw; // th
     }
 
     bool negative() const
