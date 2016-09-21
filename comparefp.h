@@ -104,6 +104,7 @@ inline bool almostEqual(double a, double b, double maxDiff=FLT_EPSILON)
     return FloatingPoint<double>(a).almostEqual(b);
 }
 
+//
 inline bool almostEqual(float a, float b, float maxDiff=FLT_EPSILON)
 {
     if (std::isnan(a) || std::isnan(b)) {
