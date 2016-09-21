@@ -41,7 +41,7 @@ public:
 
     FloatingPoint(const raw_type& raw)
     {
-        m_u.f = raw; // this is a note
+        m_u.f = raw; // this is a
     }
 
     bool negative() const
